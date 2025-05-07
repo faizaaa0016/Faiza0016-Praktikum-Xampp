@@ -1,3 +1,8 @@
+![alt text](https://github.com/faizaaa0016/Faiza0016-Praktikum-Xampp/blob/main/Screenshot%202025-04-14%20223053.png?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
 ![alt text](?raw=true)
 # Praktikum-Xampp
 Praktikum Xampp
