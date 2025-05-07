@@ -5,5 +5,4 @@
 ![alt text](https://github.com/faizaaa0016/Faiza0016-Praktikum-Xampp/blob/main/Screenshot%202025-04-15%20000511.png?raw=true)
 ![alt text](https://github.com/faizaaa0016/Faiza0016-Praktikum-Xampp/blob/main/Screenshot%202025-04-15%20000920.png?raw=true)
 # Praktikum-Xampp
-Praktikum Xampp
-![alt text](?raw=true)
+Faiza_0016 Praktikum Xampp
